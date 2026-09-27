@@ -1,3 +1,4 @@
 docs/**
 output/**
 assets/**
+!docs/GanapathiAthirvase.pdf
